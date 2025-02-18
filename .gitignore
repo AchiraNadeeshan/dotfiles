@@ -1,0 +1,6 @@
+.DS_Store 
+*.swap 
+*.swo 
+*.swn 
+undodir 
+lazy-lock.json 
