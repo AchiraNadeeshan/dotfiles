@@ -1,0 +1,54 @@
+# Catppuccin Mocha Color Scheme for Alacritty
+
+[colors]
+# Base colors
+foreground = "#D9E0EE"
+background = "#1E1E2E"
+cursor = "#F5E0DC"
+selection = "#F5E0DC"
+
+# Normal Colors
+black = "#585B70"
+red = "#F38BA8"
+green = "#A6E3A1"
+yellow = "#F9E2AF"
+blue = "#89B4FA"
+magenta = "#F5C2E7"
+cyan = "#94E2D5"
+white = "#A6ADC8"
+
+# Bright colors
+bright_black = "#45475A"
+bright_red = "#F38BA8"
+bright_green = "#A6E3A1"
+bright_yellow = "#F9E2AF"
+bright_blue = "#89B4FA"
+bright_magenta = "#F5C2E7"
+bright_cyan = "#94E2D5"
+bright_white = "#CDD6F4"
+
+# Dim colors
+dim_black = "#45475A"
+dim_red = "#F38BA8"
+dim_green = "#A6E3A1"
+dim_yellow = "#F9E2AF"
+dim_blue = "#89B4FA"
+dim_magenta = "#F5C2E7"
+dim_cyan = "#94E2D5"
+dim_white = "#BAC2DE"
+
+# Hints
+hint_start_background = "#F9E2AF"
+hint_start_foreground = "#1E1E2E"
+hint_end_background = "#A6ADC8"
+hint_end_foreground = "#1E1E2E"
+
+# Search colors
+search_focused_match_background = "#A6E3A1"
+search_focused_match_foreground = "#1E1E2E"
+search_matches_background = "#A6ADC8"
+search_matches_foreground = "#1E1E2E"
+
+# Vi mode cursor colors
+vi_mode_cursor_cursor = "#B4BEFE"
+vi_mode_cursor_text = "#1E1E2E"
