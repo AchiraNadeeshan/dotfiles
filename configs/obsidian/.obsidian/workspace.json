@@ -11,10 +11,14 @@
             "id": "c9371b4e6a8f67e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -83,6 +87,7 @@
       {
         "id": "3037fa8e6502f51e",
         "type": "tabs",
+        "dimension": 64.35137895812053,
         "children": [
           {
             "id": "18eae495aedb6094",
@@ -118,21 +123,6 @@
             }
           },
           {
-            "id": "f17ebf74024837a3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "918311137a7ceedd",
             "type": "leaf",
             "state": {
@@ -146,13 +136,59 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "8566f3a66a689f46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "70e674bf04b65c38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "bbc3c440d73d870f",
+        "type": "tabs",
+        "dimension": 35.648621041879466,
+        "children": [
+          {
+            "id": "fa5644040dd5c882",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,18 +197,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "c9371b4e6a8f67e5",
   "lastOpenFiles": [
+    "diary/2025-02-16.md",
+    "diary/2025-02-23.md",
+    "README.md",
+    "diary",
+    "notes/202502232201.md",
+    "notes/202502232202.md",
+    "notes/launch-an-http-server-in-one-line-of-python-code.md",
+    "notes/c.md",
+    "assets/Recording 20250223220126.m4a",
+    "daily",
     "notes/conventional-commits.md",
     "notes/markdown-guide.md",
     "notes/swap-two-variables-without-a-third-temporary-variable.md",
-    "notes/launch-an-http-server-in-one-line-of-python-code.md",
     "notes/cpp.md",
-    "notes/c.md",
-    "README.md",
     "notes/javascript.md",
     "notes/programing as a beginner.md",
     "notes/java.md",
@@ -184,7 +233,6 @@
     "diary/2025-02-06.md",
     "canvases/Untitled 2.canvas",
     "notes/2025-02-06.md",
-    "diary",
     "New folder",
     "Untitled 1.canvas",
     "canvases/Untitled 1.canvas",
