@@ -1,5 +1,3 @@
-# dotfiles
-=======
 # Neovim Configuration
 
 This repository contains my customized **Neovim configuration** using **lazy.nvim** as the plugin manager. The setup is optimized for performance, ease of use, and extensibility.
