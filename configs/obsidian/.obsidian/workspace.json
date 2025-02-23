@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6f9b823dda8c78",
+        "id": "ced2d6a25b3eb5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c9371b4e6a8f67e5",
+            "id": "40349dee6b0e1422",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -33,6 +29,7 @@
       {
         "id": "d2de3566dca40505",
         "type": "tabs",
+        "dimension": 62.927350427350426,
         "children": [
           {
             "id": "a87c937e5bc3160d",
@@ -75,10 +72,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "37b9edc4bf9bf8bb",
+        "type": "tabs",
+        "dimension": 37.072649572649574,
+        "children": [
+          {
+            "id": "fa5644040dd5c882",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.50499725341797
   },
   "right": {
     "id": "65e38e4c332fd3a7",
@@ -87,7 +101,7 @@
       {
         "id": "3037fa8e6502f51e",
         "type": "tabs",
-        "dimension": 64.35137895812053,
+        "dimension": 71.80796731358528,
         "children": [
           {
             "id": "18eae495aedb6094",
@@ -95,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -170,18 +181,18 @@
         "currentTab": 2
       },
       {
-        "id": "bbc3c440d73d870f",
+        "id": "08761db82a0d47aa",
         "type": "tabs",
-        "dimension": 35.648621041879466,
+        "dimension": 28.19203268641471,
         "children": [
           {
-            "id": "fa5644040dd5c882",
+            "id": "c9371b4e6a8f67e5",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,11 +217,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c9371b4e6a8f67e5",
+  "active": "40349dee6b0e1422",
   "lastOpenFiles": [
+    "README.md",
     "diary/2025-02-16.md",
     "diary/2025-02-23.md",
-    "README.md",
     "diary",
     "notes/202502232201.md",
     "notes/202502232202.md",
