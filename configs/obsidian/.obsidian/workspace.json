@@ -15,7 +15,8 @@
               "state": {
                 "file": "notes/markdown-guide.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "markdown-guide"
@@ -33,10 +34,9 @@
       {
         "id": "d2de3566dca40505",
         "type": "tabs",
-        "dimension": 61.64529914529915,
         "children": [
           {
-            "id": "a87c937e5bc3160d",
+            "id": "5c8096eda56bd06b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,50 +46,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "8001ebfbfc36b388",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "10ceec986652bd7d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "37b9edc4bf9bf8bb",
-        "type": "tabs",
-        "dimension": 38.35470085470086,
-        "children": [
-          {
-            "id": "fa5644040dd5c882",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -106,30 +62,99 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "8001ebfbfc36b388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1be700b711223636",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.50499725341797
+    "width": 272.00499725341797
   },
   "right": {
     "id": "65e38e4c332fd3a7",
     "type": "split",
     "children": [
       {
-        "id": "3037fa8e6502f51e",
+        "id": "8c510bfe07fe36eb",
         "type": "tabs",
-        "dimension": 71.80796731358528,
+        "dimension": 25.510204081632654,
         "children": [
           {
-            "id": "18eae495aedb6094",
+            "id": "c9371b4e6a8f67e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a125f27e3a6ad5b",
+        "type": "tabs",
+        "dimension": 37.44897959183673,
+        "children": [
+          {
+            "id": "03ac62af177e470a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3ef5c91a5d794a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5135ffae20ddead0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/markdown-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,36 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for markdown-guide"
-            }
-          },
-          {
-            "id": "f71599f1d3f6ce6a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "notes/markdown-guide.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from markdown-guide"
-            }
-          },
-          {
-            "id": "918311137a7ceedd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "notes/markdown-guide.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of markdown-guide"
+              "title": "Backlinks"
             }
           },
           {
@@ -189,25 +185,25 @@
         "currentTab": 3
       },
       {
-        "id": "08761db82a0d47aa",
+        "id": "3a2efa7eeee289f8",
         "type": "tabs",
-        "dimension": 28.19203268641471,
+        "dimension": 37.04081632653061,
         "children": [
           {
-            "id": "c9371b4e6a8f67e5",
+            "id": "fa5644040dd5c882",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 273
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,22 +221,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "40349dee6b0e1422",
+  "active": "5c8096eda56bd06b",
   "lastOpenFiles": [
-    "notes/launch-an-http-server-in-one-line-of-python-code.md",
     "notes/javascript.md",
+    "notes/markdown-guide.md",
+    "notes/swap-two-variables-without-a-third-temporary-variable.md",
+    "notes/launch-an-http-server-in-one-line-of-python-code.md",
+    "notes/java.md",
     "notes/cpp.md",
     "notes/conventional-commits.md",
-    "notes/markdown-guide.md",
+    "notes/c.md",
     "README.md",
-    "notes/swap-two-variables-without-a-third-temporary-variable.md",
-    "notes/java.md",
     "diary/2025-02-16.md",
     "diary/2025-02-23.md",
     "diary",
     "notes/202502232201.md",
     "notes/202502232202.md",
-    "notes/c.md",
     "assets/Recording 20250223220126.m4a",
     "daily",
     "notes/programing as a beginner.md",
