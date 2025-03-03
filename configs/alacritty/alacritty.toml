@@ -30,8 +30,12 @@ action = "SpawnNewInstance"
 key = "Return"
 mods = "Control|Shift"
 
+[terminal]
+
 # Shell
-# shell = "%SystemRoot%\\System32\\cmd.exe"
+[terminal.shell]
+program = "C:\\Program Files\\Git\\bin\\sh.exe"
+args = ["-l"]
 
 # Window padding
 [window.padding]
