@@ -19,7 +19,7 @@ vim.opt.rtp:prepend(lazypath)
 require("vim-options")
 require("lazy").setup({
     spec = {{import = "plugins"}},
-    install = { colorscheme = { "habamax" } }, -- colorscheme when installing plugins.
+    install = { colorscheme = { "catppuccin", "habamax" } }, -- colorscheme when installing plugins.
     checker = { enabled = true }, -- auto updates
 })
 
