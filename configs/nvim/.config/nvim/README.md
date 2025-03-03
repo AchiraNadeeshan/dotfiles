@@ -9,22 +9,22 @@ This repository contains my customized **Neovim configuration** using **lazy.nvi
 - **🌲 Tree-sitter Support:** Enables better syntax highlighting and code parsing.
 - **🔎 Telescope:** Fuzzy finder for searching files, buffers, and more.
 - **🎨 Catppuccin Theme:** Aesthetic colorscheme for better visuals.
-- **⌨️ Custom Keybindings:** Mapped for efficiency and workflow optimization.
-- **🖥️ Windows Compatibility:** Fully works on Windows 11.
+- **⌨️  Custom Keybindings:** Mapped for efficiency and workflow optimization.
+- **🖥️  Windows Compatibility:** Fully works on Windows 11.
 
 ---
-
+<!--
 ## 📚 File Structure in Windows
 ```
 %LOCALAPPDATA%\nvim
 ├── init.lua           # Main Neovim configuration
-<!-- ├── lua/
+├── lua/
 │   ├── plugins.lua    # Plugin configurations
 │   ├── mappings.lua   # Custom keybindings
-│   ├── settings.lua   # General Neovim settings -->
+│   ├── settings.lua   # General Neovim settings
 └── README.md          # Documentation
 ```
-
+-->
 ---
 
 ## 🚀 Installation Guide
