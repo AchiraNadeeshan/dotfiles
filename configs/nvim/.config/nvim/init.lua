@@ -1,10 +1,3 @@
-vim.cmd("set expandtab")
-vim.cmd("set tabstop=4")
-vim.cmd("set softtabstop=4")
-vim.cmd("set shiftwidth=4")
-mapleader = " "
-
-
 -- Bootstrap lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not (vim.uv or vim.loop).fs_stat(lazypath) then
@@ -23,35 +16,11 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 
--- Make sure to setup `mapleader` and `maplocalleader` before
--- loading lazy.nvim so that mappings are correct.
--- This is also a good place to setup other settings (vim.opt)
-vim.g.mapleader = " "
-vim.g.maplocalleader = "\\"
-
-
--- Setup lazy.nvim
+require("vim-options")
 require("lazy").setup({
     spec = {{import = "plugins"}},
-    -- Configure any other settings here. See the documentation for more details.
-    -- colorscheme that will be used when installing plugins.
-    install = { colorscheme = { "habamax" } },
-    -- automatically check for plugin updates
-    checker = { enabled = true },
-})
-
-
-local builtin = require("telescope.builtin")
-vim.keymap.set('n', '<C-p>', builtin.find_files,{})
-vim.keymap.set('n', '<leader>fg', builtin.live_grep,{})
-
-vim.keymap.set('n', '<C-n>', ':Neotree filesystem reveal left<CR>',{})
-
-local config = require("nvim-treesitter.configs")
-config.setup({
-    ensure_installed = {"lua", "javascript"},
-    highlight = { enable = true },
-    indent = { enable = true },
+    install = { colorscheme = { "habamax" } }, -- colorscheme when installing plugins.
+    checker = { enabled = true }, -- auto updates
 })
 
 
