@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eff1803f7b23f59d",
+        "id": "07bffba8c4e574a5",
         "type": "tabs",
         "children": [
           {
-            "id": "515ae0fff0cccbd8",
+            "id": "b618791743f790d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dashboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dashboard"
-            }
-          },
-          {
-            "id": "1c2efb0aa7a68f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/swap-two-variables-without-a-third-temporary-variable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "swap-two-variables-without-a-third-temporary-variable"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "23c7c248578da2b5",
@@ -124,7 +104,7 @@
       {
         "id": "8c510bfe07fe36eb",
         "type": "tabs",
-        "dimension": 25.510204081632654,
+        "dimension": 25.551684088269454,
         "children": [
           {
             "id": "c9371b4e6a8f67e5",
@@ -141,7 +121,7 @@
       {
         "id": "4a125f27e3a6ad5b",
         "type": "tabs",
-        "dimension": 37.44897959183673,
+        "dimension": 32.868757259001164,
         "children": [
           {
             "id": "03ac62af177e470a",
@@ -208,7 +188,7 @@
       {
         "id": "3a2efa7eeee289f8",
         "type": "tabs",
-        "dimension": 37.04081632653061,
+        "dimension": 41.57955865272939,
         "children": [
           {
             "id": "fa5644040dd5c882",
@@ -228,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -235,23 +216,22 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "1c2efb0aa7a68f9e",
+  "active": "b618791743f790d7",
   "lastOpenFiles": [
     "notes/git-commands.md",
-    "notes/regular-expressions.md",
-    "notes/markdown-guide.md",
-    "dashboard.md",
-    "notes/pot-player-shortcuts.md",
-    "notes/debunk-hub.md",
-    "notes/conventional-commits.md",
     "notes/nvim-commands.md",
-    "README.md",
-    "notes/swap-two-variables-without-a-third-temporary-variable.md",
+    "notes/markdown-guide.md",
     "notes/manage-virtual-environments-in-python.md",
+    "notes/debunk-hub.md",
+    "README.md",
+    "notes/regular-expressions.md",
+    "dashboard.md",
+    "notes/swap-two-variables-without-a-third-temporary-variable.md",
+    "notes/pot-player-shortcuts.md",
+    "notes/conventional-commits.md",
     "notes/launch-an-http-server-in-one-line-of-python-code.md",
     "notes/javascript.md",
     "notes/java.md",
