@@ -6,7 +6,10 @@ return {
 			sources = {
 				null_ls.builtins.formatting.stylua,
 				null_ls.builtins.formatting.prettier.with({
-					extra_args = { "--parser", "html" },
+					extra_args = {
+						"--parser", "html",
+						"--html-whitespace-sensitivity", "ignore",
+					},
 				}),
 				null_ls.builtins.formatting.black,
 				null_ls.builtins.formatting.isort,
