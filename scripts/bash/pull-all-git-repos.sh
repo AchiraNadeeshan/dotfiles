@@ -16,3 +16,5 @@ for dir in */; do
 done
 
 echo "All git repositories in $BASE_DIR updated."
+echo
+read -p "Press any key to exit..."
