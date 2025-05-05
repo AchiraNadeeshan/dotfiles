@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "value": "dashboard",
-      "kind": "Workspace",
+      "kind": "Nothing",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",

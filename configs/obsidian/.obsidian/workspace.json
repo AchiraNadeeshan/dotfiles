@@ -4,20 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "07bffba8c4e574a5",
+        "id": "eff1803f7b23f59d",
         "type": "tabs",
         "children": [
           {
-            "id": "b618791743f790d7",
+            "id": "6d397ff6610b97b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/html-cheat-sheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "html-cheat-sheet"
+            }
+          },
+          {
+            "id": "fd5de8ed4589a90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/nvim-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nvim-commands"
+            }
+          },
+          {
+            "id": "7ea4eeb53c9e1c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/my-nvim-keybindings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my-nvim-keybindings"
+            }
+          },
+          {
+            "id": "b0de300bc6db3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/nvim-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nvim-commands"
+            }
+          },
+          {
+            "id": "bc27ab87f6d8a4aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/alacritty-shortcuts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alacritty-shortcuts"
+            }
+          },
+          {
+            "id": "27481ad7425767ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/launch-an-http-server-in-one-line-of-python-code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "launch-an-http-server-in-one-line-of-python-code"
+            }
+          },
+          {
+            "id": "3bb9cf28038f0dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/css-cheat-sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "css-cheat-sheet"
+            }
+          },
+          {
+            "id": "3c61e4ef5008d230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/blockchain-fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "blockchain-fundamentals"
+            }
+          },
+          {
+            "id": "43a1823fa4e107ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/nvim-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nvim-commands"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#networking",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -104,7 +221,7 @@
       {
         "id": "8c510bfe07fe36eb",
         "type": "tabs",
-        "dimension": 25.551684088269454,
+        "dimension": 25.510204081632654,
         "children": [
           {
             "id": "c9371b4e6a8f67e5",
@@ -121,7 +238,7 @@
       {
         "id": "4a125f27e3a6ad5b",
         "type": "tabs",
-        "dimension": 32.868757259001164,
+        "dimension": 37.44897959183673,
         "children": [
           {
             "id": "03ac62af177e470a",
@@ -188,7 +305,7 @@
       {
         "id": "3a2efa7eeee289f8",
         "type": "tabs",
-        "dimension": 41.57955865272939,
+        "dimension": 37.04081632653061,
         "children": [
           {
             "id": "fa5644040dd5c882",
@@ -204,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,20 +336,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b618791743f790d7",
+  "active": "7ea4eeb53c9e1c15",
   "lastOpenFiles": [
-    "notes/git-commands.md",
     "notes/nvim-commands.md",
-    "notes/markdown-guide.md",
-    "notes/manage-virtual-environments-in-python.md",
-    "notes/debunk-hub.md",
+    "notes/my-nvim-keybindings.md",
+    "notes/launch-an-http-server-in-one-line-of-python-code.md",
+    "notes/alacritty-shortcuts.md",
+    "notes/html-cheat-sheet.md",
+    "notes/linux-cheat-sheet.md",
+    "notes/css-cheat-sheet.md",
+    "notes/conventional-commits.md",
     "README.md",
-    "notes/regular-expressions.md",
+    "notes/git-commands.md",
     "dashboard.md",
+    "notes/blockchain-fundamentals.md",
+    "notes/debunk-hub.md",
+    "notes/ctf-tools.md",
+    "notes/nmap-cheat-sheet.md",
+    "notes/markdown-guide.md",
+    "notes/regular-expressions.md",
+    "notes/manage-virtual-environments-in-python.md",
     "notes/swap-two-variables-without-a-third-temporary-variable.md",
     "notes/pot-player-shortcuts.md",
-    "notes/conventional-commits.md",
-    "notes/launch-an-http-server-in-one-line-of-python-code.md",
     "notes/javascript.md",
     "notes/java.md",
     "notes/cpp.md",
@@ -240,24 +365,16 @@
     "diary/2025-02-16.md",
     "diary/2025-02-23.md",
     "diary",
-    "notes/202502232201.md",
-    "notes/202502232202.md",
     "assets/Recording 20250223220126.m4a",
     "daily",
-    "notes/programing as a beginner.md",
-    "notes/note 1.md",
-    "diary/2025-02-05.md",
     "assets/Pasted image 20250206004218.png",
     "assets/Pasted image 20250206002537.png",
     "canvases/Untitled.canvas",
-    "diary/2025-02-06.md",
     "canvases/Untitled 2.canvas",
-    "notes/2025-02-06.md",
     "New folder",
     "Untitled 1.canvas",
     "canvases/Untitled 1.canvas",
     "canvases",
-    "2025-02-05.md",
     "Untitled.canvas",
     "notes",
     "assets"

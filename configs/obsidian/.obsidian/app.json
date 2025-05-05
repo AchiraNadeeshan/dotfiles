@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "showUnsupportedFiles": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "vimMode": true
 }
