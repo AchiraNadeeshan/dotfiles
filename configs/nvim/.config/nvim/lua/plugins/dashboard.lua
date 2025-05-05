@@ -39,7 +39,12 @@ return {
                     action = "Telescope find_files cwd=",
                 },
                 mru = { enable = true, limit = 4, icon = "", label = "Recent files", cwd_only = false },
-                footer = {}, -- optional footer
+                footer = {
+                    "",
+                    "",
+                    " Launch into code, Achira!",
+                    " Stay curious. Build boldly.",
+                },
             },
         })
 
