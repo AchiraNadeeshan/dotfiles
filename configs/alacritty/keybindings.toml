@@ -1,0 +1,29 @@
+# Keyboard bindings
+
+[keyboard]
+
+bindings = [
+
+    # Create New window
+{ key = "Enter", mods = "Control|Shift", action = "CreateNewWindow" },
+{ key = "I", mods = "Control|Shift", action = "SpawnNewInstance" },
+
+    # Fullscreen toggle
+{ key = "F", mods = "Control|Shift", action = "ToggleFullscreen" },
+{ key = "M", mods = "Control|Shift", action = "ToggleMaximized" },
+
+    # Clear warning and error notices
+{ key = "K", mods = "Control|Shift", action = "ClearLogNotice" },
+
+    # Scroll up/down by page
+{ key = "PageUp",   action = "ScrollPageUp" },
+{ key = "PageDown", action = "ScrollPageDown" },
+
+    # Scroll up/down by line
+{ key = "Up", mods = "Shift", action = "ScrollLineUp" },
+{ key = "Down", mods = "Shift", action = "ScrollLineDown" },
+
+    # Quit terminal
+{ key = "Q", mods = "Control|Shift", action = "Quit" },
+
+]

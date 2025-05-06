@@ -1,27 +1,23 @@
 general.live_config_reload = true
- 
+
 general.import = [
     "catppuccin-mocha.toml",
+    "keybindings.toml",
 ]
 window.opacity = 1.0
+
 
 # Font configuration
 [font]
 size = 12
 normal = { family = "CaskaydiaCove Nerd Font", style = "Regular" }
 
-# Keyboard bindings
-[[keyboard.bindings]]
-action = "SpawnNewInstance"
-key = "Return"
-mods = "Control|Shift"
-
-[terminal]
 
 # Shell
 [terminal.shell]
 program = "C:/Program Files/Git/bin/sh.exe"
 args = ["-l"]
+
 
 # Window padding
 [window.padding]
