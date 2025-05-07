@@ -112,6 +112,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "1cfaf94a8b706042",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       },
@@ -264,7 +274,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6f535d6f4614f5d",
+  "active": "5c8096eda56bd06b",
   "lastOpenFiles": [
     "notes/html-cheat-sheet.md",
     "Excalidraw/Drawing 2025-05-07 21.48.17.excalidraw.md",
