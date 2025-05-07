@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Create symlink for .bashrc
-ln -sf "$HOME/dotfiles/configs/shell/.bashrc" "$HOME/.bashrc"
+ln -sf "$HOME/dotfiles/configs/bash/.bashrc" "$HOME/.bashrc"
 
 # Create symlink for .bash_profile
-ln -sf "$HOME/dotfiles/configs/shell/.bash_profile" "$HOME/.bash_profile"
+ln -sf "$HOME/dotfiles/configs/bash/.bash_profile" "$HOME/.bash_profile"
 
 # Create symlink for Neovim config (Windows-specific path)
 ln -sf "$HOME/dotfiles/configs/nvim/.config/nvim" "/c/Users/$USERNAME/AppData/Local/nvim"
