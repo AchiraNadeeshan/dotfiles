@@ -17,6 +17,7 @@ vim.opt.rtp:prepend(lazypath)
 
 
 require("vim-options")
+require("keymaps")
 require("lazy").setup({
     spec = {{import = "plugins"}},
     install = { colorscheme = { "catppuccin", "habamax" } }, -- colorscheme when installing plugins.
