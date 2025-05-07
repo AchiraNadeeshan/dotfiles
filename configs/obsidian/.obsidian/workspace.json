@@ -4,95 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "eff1803f7b23f59d",
+        "id": "d1a5617a55df5564",
         "type": "tabs",
         "children": [
           {
-            "id": "6d397ff6610b97b1",
+            "id": "f6f535d6f4614f5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "notes/html-cheat-sheet.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-05-07 21.48.17.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "html-cheat-sheet"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-07 21.48.17.excalidraw"
             }
           },
           {
-            "id": "fd5de8ed4589a90d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/nvim-commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nvim-commands"
-            }
-          },
-          {
-            "id": "7ea4eeb53c9e1c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/my-nvim-keybindings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "my-nvim-keybindings"
-            }
-          },
-          {
-            "id": "b0de300bc6db3ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/nvim-commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nvim-commands"
-            }
-          },
-          {
-            "id": "bc27ab87f6d8a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/alacritty-shortcuts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "alacritty-shortcuts"
-            }
-          },
-          {
-            "id": "27481ad7425767ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/launch-an-http-server-in-one-line-of-python-code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "launch-an-http-server-in-one-line-of-python-code"
-            }
-          },
-          {
-            "id": "3bb9cf28038f0dd4",
+            "id": "ee918b6754b54a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,35 +34,32 @@
             }
           },
           {
-            "id": "3c61e4ef5008d230",
+            "id": "b19395196b2ffabe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/blockchain-fundamentals.md",
-                "mode": "source",
+                "file": "Excalidraw/Drawing 2025-05-07 21.48.17.excalidraw.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blockchain-fundamentals"
+              "title": "Drawing 2025-05-07 21.48.17.excalidraw"
             }
           },
           {
-            "id": "43a1823fa4e107ff",
+            "id": "2125df9794135085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "notes/nvim-commands.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-05-07 21.48.17.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "nvim-commands"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-07 21.48.17.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,6 +71,7 @@
       {
         "id": "d2de3566dca40505",
         "type": "tabs",
+        "dimension": 52.94117647058823,
         "children": [
           {
             "id": "5c8096eda56bd06b",
@@ -166,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#networking",
+                "query": "tag:#vim",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -192,6 +118,7 @@
       {
         "id": "23c7c248578da2b5",
         "type": "tabs",
+        "dimension": 47.05882352941177,
         "children": [
           {
             "id": "70e674bf04b65c38",
@@ -199,7 +126,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,9 +146,9 @@
     "type": "split",
     "children": [
       {
-        "id": "8c510bfe07fe36eb",
+        "id": "4a125f27e3a6ad5b",
         "type": "tabs",
-        "dimension": 25.510204081632654,
+        "dimension": 26.935312831389187,
         "children": [
           {
             "id": "c9371b4e6a8f67e5",
@@ -231,27 +158,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4a125f27e3a6ad5b",
-        "type": "tabs",
-        "dimension": 37.44897959183673,
-        "children": [
-          {
-            "id": "03ac62af177e470a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
             }
           },
           {
@@ -299,13 +205,34 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "a28183fd5480abf3",
+        "type": "tabs",
+        "dimension": 35.2067868504772,
+        "children": [
+          {
+            "id": "03ac62af177e470a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-07 21.48.17.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-05-07 21.48.17.excalidraw"
+            }
+          }
+        ]
       },
       {
         "id": "3a2efa7eeee289f8",
         "type": "tabs",
-        "dimension": 37.04081632653061,
+        "dimension": 37.857900318133616,
         "children": [
           {
             "id": "fa5644040dd5c882",
@@ -333,23 +260,29 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7ea4eeb53c9e1c15",
+  "active": "f6f535d6f4614f5d",
   "lastOpenFiles": [
-    "notes/nvim-commands.md",
-    "notes/my-nvim-keybindings.md",
-    "notes/launch-an-http-server-in-one-line-of-python-code.md",
-    "notes/alacritty-shortcuts.md",
     "notes/html-cheat-sheet.md",
-    "notes/linux-cheat-sheet.md",
+    "Excalidraw/Drawing 2025-05-07 21.48.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-07 21.50.57.excalidraw.md",
     "notes/css-cheat-sheet.md",
+    "Excalidraw",
+    "notes/nvim-commands.md",
+    "notes/my-git-bash-aliases.md",
     "notes/conventional-commits.md",
-    "README.md",
     "notes/git-commands.md",
-    "dashboard.md",
+    "notes/alacritty-shortcuts.md",
     "notes/blockchain-fundamentals.md",
+    "notes/launch-an-http-server-in-one-line-of-python-code.md",
+    "notes/my-nvim-key-bindings.md",
+    "notes/vscode-shortcuts.md",
+    "notes/linux-cheat-sheet.md",
+    "README.md",
+    "dashboard.md",
     "notes/debunk-hub.md",
     "notes/ctf-tools.md",
     "notes/nmap-cheat-sheet.md",
@@ -360,10 +293,6 @@
     "notes/pot-player-shortcuts.md",
     "notes/javascript.md",
     "notes/java.md",
-    "notes/cpp.md",
-    "notes/c.md",
-    "diary/2025-02-16.md",
-    "diary/2025-02-23.md",
     "diary",
     "assets/Recording 20250223220126.m4a",
     "daily",
