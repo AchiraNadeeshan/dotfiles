@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2025-05-08",
+      "path": "diary/2025-05-08.md"
+    },
+    {
+      "basename": "conventional-commits",
+      "path": "notes/conventional-commits.md"
+    },
+    {
+      "basename": "html-cheat-sheet",
+      "path": "notes/html-cheat-sheet.md"
+    },
+    {
+      "basename": "g6pd-deficiency",
+      "path": "notes/g6pd-deficiency.md"
+    },
+    {
+      "basename": "css-cheat-sheet",
+      "path": "notes/css-cheat-sheet.md"
+    },
+    {
+      "basename": "the-box-model-of-website-styling",
+      "path": "Excalidraw/the-box-model-of-website-styling.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
