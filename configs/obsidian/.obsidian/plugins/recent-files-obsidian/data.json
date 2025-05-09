@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "bootstrap",
+      "path": "notes/bootstrap.md"
+    },
+    {
+      "basename": "2025-05-09",
+      "path": "diary/2025-05-09.md"
+    },
+    {
+      "basename": "css-cheat-sheet",
+      "path": "notes/css-cheat-sheet.md"
+    },
+    {
+      "basename": "nvim-commands",
+      "path": "notes/nvim-commands.md"
+    },
+    {
+      "basename": "linux-cheat-sheet",
+      "path": "notes/linux-cheat-sheet.md"
+    },
+    {
+      "basename": "html-cheat-sheet",
+      "path": "notes/html-cheat-sheet.md"
+    },
+    {
+      "basename": "web-development-a-z-course",
+      "path": "Excalidraw/web-development-a-z-course.md"
+    },
+    {
+      "basename": "web-ui",
+      "path": "assets/web-ui.png"
+    },
+    {
       "basename": "2025-05-08",
       "path": "diary/2025-05-08.md"
     },
@@ -9,20 +41,8 @@
       "path": "notes/conventional-commits.md"
     },
     {
-      "basename": "html-cheat-sheet",
-      "path": "notes/html-cheat-sheet.md"
-    },
-    {
       "basename": "g6pd-deficiency",
       "path": "notes/g6pd-deficiency.md"
-    },
-    {
-      "basename": "css-cheat-sheet",
-      "path": "notes/css-cheat-sheet.md"
-    },
-    {
-      "basename": "the-box-model-of-website-styling",
-      "path": "Excalidraw/the-box-model-of-website-styling.md"
     }
   ],
   "omittedPaths": [],
