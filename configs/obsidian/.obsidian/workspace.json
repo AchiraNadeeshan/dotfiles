@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "2025-05-10"
             }
+          },
+          {
+            "id": "7c17af14ad10edf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/conventional-commits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conventional-commits"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2025-05-10.md",
+                "file": "notes/conventional-commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-10"
+              "title": "Backlinks for conventional-commits"
             }
           },
           {
@@ -239,15 +253,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea29e832551c7b0e",
+  "active": "7c17af14ad10edf8",
   "lastOpenFiles": [
+    "diary/2025-05-10.md",
     "notes/my-nvim-key-bindings.md",
     "notes/my-git-bash-aliases.md",
     "notes/color-palettes.md",
     "notes/git-commands.md",
     "notes/manage-virtual-environments-in-python.md",
     "Excalidraw/web-development-a-z-course.md",
-    "diary/2025-05-10.md",
     "notes/conventional-commits.md",
     "notes/launch-an-http-server-in-one-line-of-python-code.md",
     "notes/nvim-commands.md",
