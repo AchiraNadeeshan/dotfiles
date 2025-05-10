@@ -1,44 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "bootstrap",
-      "path": "notes/bootstrap.md"
+      "basename": "2025-05-10",
+      "path": "diary/2025-05-10.md"
     },
     {
-      "basename": "2025-05-09",
-      "path": "diary/2025-05-09.md"
+      "basename": "my-nvim-key-bindings",
+      "path": "notes/my-nvim-key-bindings.md"
     },
     {
-      "basename": "css-cheat-sheet",
-      "path": "notes/css-cheat-sheet.md"
+      "basename": "my-git-bash-aliases",
+      "path": "notes/my-git-bash-aliases.md"
     },
     {
-      "basename": "nvim-commands",
-      "path": "notes/nvim-commands.md"
+      "basename": "color-palettes",
+      "path": "notes/color-palettes.md"
     },
     {
-      "basename": "linux-cheat-sheet",
-      "path": "notes/linux-cheat-sheet.md"
+      "basename": "git-commands",
+      "path": "notes/git-commands.md"
     },
     {
-      "basename": "html-cheat-sheet",
-      "path": "notes/html-cheat-sheet.md"
+      "basename": "manage-virtual-environments-in-python",
+      "path": "notes/manage-virtual-environments-in-python.md"
     },
     {
       "basename": "web-development-a-z-course",
       "path": "Excalidraw/web-development-a-z-course.md"
     },
     {
-      "basename": "web-ui",
-      "path": "assets/web-ui.png"
+      "basename": "conventional-commits",
+      "path": "notes/conventional-commits.md"
+    },
+    {
+      "basename": "launch-an-http-server-in-one-line-of-python-code",
+      "path": "notes/launch-an-http-server-in-one-line-of-python-code.md"
+    },
+    {
+      "basename": "nvim-commands",
+      "path": "notes/nvim-commands.md"
+    },
+    {
+      "basename": "bootstrap-cheat-sheet",
+      "path": "notes/bootstrap-cheat-sheet.md"
+    },
+    {
+      "basename": "blockchain-fundamentals",
+      "path": "notes/blockchain-fundamentals.md"
+    },
+    {
+      "basename": "2025-05-09",
+      "path": "diary/2025-05-09.md"
     },
     {
       "basename": "2025-05-08",
       "path": "diary/2025-05-08.md"
     },
     {
-      "basename": "conventional-commits",
-      "path": "notes/conventional-commits.md"
+      "basename": "wireframing",
+      "path": "notes/wireframing.md"
+    },
+    {
+      "basename": "css-cheat-sheet",
+      "path": "notes/css-cheat-sheet.md"
+    },
+    {
+      "basename": "html-cheat-sheet",
+      "path": "notes/html-cheat-sheet.md"
+    },
+    {
+      "basename": "linux-cheat-sheet",
+      "path": "notes/linux-cheat-sheet.md"
     },
     {
       "basename": "g6pd-deficiency",
