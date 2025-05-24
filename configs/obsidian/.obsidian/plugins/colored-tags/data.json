@@ -55,7 +55,23 @@
     "version-control": 37,
     "color-pa": 38,
     "color-palettes": 39,
-    "design": 40
+    "design": 40,
+    "vim-motions": 41,
+    "browser-extention": 42,
+    "browser-extentions": 43,
+    "blockchain": 44,
+    "security": 45,
+    "cryptography": 46,
+    "hashing": 47,
+    "hash": 48,
+    "cryptograpy": 49,
+    "p2p": 50,
+    "refactoring": 51,
+    "software-engineering": 52,
+    "java": 53,
+    "javascript": 54,
+    "diary": 55,
+    "bookmarks": 56
   },
   "_version": 3
 }
