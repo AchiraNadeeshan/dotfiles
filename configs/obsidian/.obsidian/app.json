@@ -4,6 +4,7 @@
   "newFileFolderPath": "notes",
   "showUnsupportedFiles": true,
   "showLineNumber": true,
-  "vimMode": true,
-  "alwaysUpdateLinks": true
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }
