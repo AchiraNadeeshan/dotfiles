@@ -11,44 +11,31 @@
             "id": "42630b1b65ee7bd4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/web-development-a-z-course.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "web-development-a-z-course"
-            }
-          },
-          {
-            "id": "ea29e832551c7b0e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2025-05-10.md",
+                "file": "diary/2025-05-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-10"
+              "title": "2025-05-24"
             }
           },
           {
-            "id": "7c17af14ad10edf8",
+            "id": "dfbdf5e8c8225475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/conventional-commits.md",
+                "file": "notes/browser-bookmarks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conventional-commits"
+              "title": "browser-bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#p2p",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,7 +101,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -134,9 +121,9 @@
     "type": "split",
     "children": [
       {
-        "id": "8c510bfe07fe36eb",
+        "id": "4a125f27e3a6ad5b",
         "type": "tabs",
-        "dimension": 25.556733828207847,
+        "dimension": 20.42900919305414,
         "children": [
           {
             "id": "c9371b4e6a8f67e5",
@@ -147,41 +134,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "4a125f27e3a6ad5b",
-        "type": "tabs",
-        "dimension": 36.37327677624602,
-        "children": [
-          {
-            "id": "03ac62af177e470a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "notes/html-cheat-sheet.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of html-cheat-sheet"
-            }
-          },
-          {
-            "id": "3ef5c91a5d794a1d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
           },
           {
             "id": "5135ffae20ddead0",
@@ -189,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/conventional-commits.md",
+                "file": "diary/2025-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +151,29 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conventional-commits"
+              "title": "Backlinks for 2025-05-24"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f7eed9ad980a03c7",
+        "type": "tabs",
+        "dimension": 42.90091930541369,
+        "children": [
+          {
+            "id": "03ac62af177e470a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/2025-05-24.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-24"
             }
           },
           {
@@ -215,14 +189,27 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "3ef5c91a5d794a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "diary/2025-05-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-24"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3a2efa7eeee289f8",
         "type": "tabs",
-        "dimension": 38.06998939554613,
+        "dimension": 36.67007150153218,
         "children": [
           {
             "id": "fa5644040dd5c882",
@@ -242,6 +229,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
@@ -250,42 +240,45 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "templates:Insert template": false
     }
   },
-  "active": "7c17af14ad10edf8",
+  "active": "42630b1b65ee7bd4",
   "lastOpenFiles": [
+    "notes/peer-to-peer-network.md",
+    "diary/2025-05-24.md",
+    "diary/2025-05-25.md",
+    "diary/2025-05-23.md",
+    "diary/2025-05-22.md",
+    "diary/2025-05-21.md",
+    "notes/browser-bookmarks.md",
+    "excalidraw/web-development-a-z-course.md",
+    "notes/Drawing 2025-05-24 15.23.20.excalidraw.md",
+    "diary/2025-05-20.md",
+    "diary/2025-05-19.md",
+    "diary/2025-05-18.md",
+    "diary/2025-05-17.md",
+    "diary/2025-05-16.md",
+    "diary/2025-05-15.md",
+    "diary/2025-05-14.md",
+    "diary/2025-05-13.md",
+    "diary/2025-05-12.md",
+    "diary/2025-05-11.md",
     "diary/2025-05-10.md",
-    "notes/my-nvim-key-bindings.md",
-    "notes/my-git-bash-aliases.md",
-    "notes/color-palettes.md",
-    "notes/git-commands.md",
-    "notes/manage-virtual-environments-in-python.md",
-    "Excalidraw/web-development-a-z-course.md",
-    "notes/conventional-commits.md",
-    "notes/launch-an-http-server-in-one-line-of-python-code.md",
-    "notes/nvim-commands.md",
-    "notes/bootstrap-cheat-sheet.md",
-    "notes/blockchain-fundamentals.md",
     "diary/2025-05-09.md",
     "diary/2025-05-08.md",
+    "diary/template.md",
+    "notes/linux-cheat-sheet.md",
+    "notes/my-understanding-of-block-universe.md",
+    "notes/node-js.md",
     "assets/web-ui.png",
     "assets/vesak-dansala.png",
-    "notes/wireframing.md",
-    "notes/css-cheat-sheet.md",
-    "notes/html-cheat-sheet.md",
-    "notes/linux-cheat-sheet.md",
     "assets/Pasted image 20250508225610.png",
     "assets",
-    "diary/Untitled.md",
-    "notes/g6pd-deficiency.md",
-    "Excalidraw/Drawing 2025-05-07 21.50.57.excalidraw.md",
-    "Excalidraw",
-    "notes/alacritty-shortcuts.md",
-    "notes/vscode-shortcuts.md",
-    "README.md",
-    "dashboard.md",
-    "notes/debunk-hub.md",
+    "excalidraw",
     "diary",
     "assets/Recording 20250223220126.m4a",
     "daily",
