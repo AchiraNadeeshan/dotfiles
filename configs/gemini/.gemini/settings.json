@@ -1,4 +1,4 @@
 {
-  "theme": "ANSI",
-  "selectedAuthType": "oauth-personal"
+  "theme": "Default",
+  "selectedAuthType": "gemini-api-key"
 }
