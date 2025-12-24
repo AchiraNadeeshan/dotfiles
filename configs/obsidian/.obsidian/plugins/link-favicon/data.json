@@ -13,5 +13,5 @@
   "enableLivePreview": false,
   "debounce": 500,
   "iconPosition": "front",
-  "colorInversion": true
+  "colorInversion": false
 }

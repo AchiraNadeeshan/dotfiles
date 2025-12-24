@@ -2,5 +2,6 @@
   "cssTheme": "Catppuccin",
   "nativeMenus": false,
   "baseFontSize": 16,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "showRibbon": true
 }

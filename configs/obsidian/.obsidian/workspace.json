@@ -4,35 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f414c13ccdea10",
+        "id": "cc38a624dd45a9df",
         "type": "tabs",
         "children": [
           {
-            "id": "42630b1b65ee7bd4",
+            "id": "5b868eacd4647438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2025-05-24.md",
+                "file": "diary/2025-12-24.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-24"
+              "title": "2025-12-24"
             }
           },
           {
-            "id": "dfbdf5e8c8225475",
+            "id": "dce6435ed3941644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/browser-bookmarks.md",
+                "file": "diary/2025-12-24.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "browser-bookmarks"
+              "title": "2025-12-24"
             }
           }
         ]
@@ -47,6 +49,7 @@
       {
         "id": "d2de3566dca40505",
         "type": "tabs",
+        "dimension": 42.84188034188034,
         "children": [
           {
             "id": "5c8096eda56bd06b",
@@ -67,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#p2p",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,12 +91,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "23c7c248578da2b5",
         "type": "tabs",
+        "dimension": 29.48717948717949,
         "children": [
           {
             "id": "70e674bf04b65c38",
@@ -101,13 +104,30 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd55dfd3f5876105",
+        "type": "tabs",
+        "dimension": 27.670940170940174,
+        "children": [
+          {
+            "id": "c9371b4e6a8f67e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -123,35 +143,16 @@
       {
         "id": "4a125f27e3a6ad5b",
         "type": "tabs",
-        "dimension": 20.42900919305414,
+        "dimension": 36.567926455566905,
         "children": [
           {
-            "id": "c9371b4e6a8f67e5",
+            "id": "fa5644040dd5c882",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5135ffae20ddead0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "diary/2025-05-24.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-24"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -159,7 +160,7 @@
       {
         "id": "f7eed9ad980a03c7",
         "type": "tabs",
-        "dimension": 42.90091930541369,
+        "dimension": 63.432073544433095,
         "children": [
           {
             "id": "03ac62af177e470a",
@@ -167,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2025-05-24.md",
+                "file": "diary/2025-12-24.md",
                 "followCursor": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-24"
+              "title": "Outline of 2025-12-24"
             }
           },
           {
@@ -196,39 +197,42 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2025-05-24.md",
-                "linksCollapsed": false,
+                "file": "diary/2025-06-12.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-05-24"
+              "title": "Outgoing links from 2025-06-12"
             }
-          }
-        ]
-      },
-      {
-        "id": "3a2efa7eeee289f8",
-        "type": "tabs",
-        "dimension": 36.67007150153218,
-        "children": [
+          },
           {
-            "id": "fa5644040dd5c882",
+            "id": "5135ffae20ddead0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "backlink",
+              "state": {
+                "file": "diary/2025-06-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-06-12"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 260
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -242,55 +246,61 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
       "templates:Insert template": false
     }
   },
-  "active": "42630b1b65ee7bd4",
+  "active": "5b868eacd4647438",
   "lastOpenFiles": [
-    "notes/peer-to-peer-network.md",
-    "diary/2025-05-24.md",
-    "diary/2025-05-25.md",
-    "diary/2025-05-23.md",
-    "diary/2025-05-22.md",
-    "diary/2025-05-21.md",
-    "notes/browser-bookmarks.md",
+    "notes/sri-lankan-series-tracking-list.md",
+    "diary/2025-12-24.md",
+    "diary/2025-12-23.md",
     "excalidraw/web-development-a-z-course.md",
-    "notes/Drawing 2025-05-24 15.23.20.excalidraw.md",
-    "diary/2025-05-20.md",
-    "diary/2025-05-19.md",
-    "diary/2025-05-18.md",
-    "diary/2025-05-17.md",
-    "diary/2025-05-16.md",
-    "diary/2025-05-15.md",
-    "diary/2025-05-14.md",
-    "diary/2025-05-13.md",
-    "diary/2025-05-12.md",
-    "diary/2025-05-11.md",
-    "diary/2025-05-10.md",
-    "diary/2025-05-09.md",
-    "diary/2025-05-08.md",
-    "diary/template.md",
-    "notes/linux-cheat-sheet.md",
-    "notes/my-understanding-of-block-universe.md",
-    "notes/node-js.md",
-    "assets/web-ui.png",
-    "assets/vesak-dansala.png",
-    "assets/Pasted image 20250508225610.png",
-    "assets",
+    "excalidraw/other-stuff.excalidraw.md",
+    "excalidraw/blockchain-a-z-course.excalidraw.md",
     "excalidraw",
+    "excalidraws/web-development-a-z-course.md",
+    "excalidraws/other-stuff.excalidraw.md",
+    "excalidraws/blockchain-a-z-course.excalidraw.md",
+    "excalidraws",
+    "notes/bash-shell-notes.md",
+    "templates/diary-template.md",
+    "notes/base.base",
+    "notes/workout-plan.md",
+    "assets/Pasted image 20251119004717.png",
+    "assets/Pasted image 20251119004821.png",
+    "assets/Pasted image 20251119005058.png",
+    "assets/Pasted image 20251119005150.png",
+    "assets/Pasted image 20251119005258.png",
+    "assets/Pasted image 20251119005438.png",
+    "assets/Pasted image 20251223211810.png",
+    "notes/idea-hub.md",
+    "notes/portfolio-website-project.md",
+    "notes/browser-bookmarks.md",
+    "notes/techtrackshow-notes.md",
+    "notes/git-cheat-sheet.md",
+    "notes/how-git-works.md",
+    "notes/css-cheat-sheet.md",
+    "notes/express.md",
+    "assets/Pasted image 20251223210752.png",
+    "assets/git.png",
+    "diary/2025-12-22.md",
+    "diary/2025-12-21.md",
+    "diary/2025-12-20.md",
+    "diary/2025-12-19.md",
+    "diary/2025-12-18.md",
+    "diary/2025-12-17.md",
+    "assets/WhatsApp Image 2025-12-13 at 14.02.58.jpeg",
+    "notes/Untitled 1.base",
+    "templates",
+    "assets",
     "diary",
     "assets/Recording 20250223220126.m4a",
     "daily",
-    "assets/Pasted image 20250206004218.png",
-    "assets/Pasted image 20250206002537.png",
     "canvases/Untitled.canvas",
     "canvases/Untitled 2.canvas",
     "New folder",
     "Untitled 1.canvas",
     "canvases/Untitled 1.canvas",
-    "canvases",
-    "Untitled.canvas",
-    "notes"
+    "Untitled.canvas"
   ]
 }
