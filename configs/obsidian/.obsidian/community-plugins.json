@@ -4,6 +4,9 @@
   "obsidian-excalidraw-plugin",
   "editing-toolbar",
   "colored-tags",
-  "pdf-plus",
-  "link-favicon"
+  "link-favicon",
+  "tasknotes",
+  "refresh-preview",
+  "dataview",
+  "templater-obsidian"
 ]

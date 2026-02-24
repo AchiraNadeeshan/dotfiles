@@ -1,5 +1,4 @@
 {
   "folder": "diary",
-  "template": "templates/diary-template",
-  "autorun": true
+  "template": "templates/diary-template"
 }

@@ -6,5 +6,21 @@
       ],
       "key": "F"
     }
+  ],
+  "tasknotes:quick-actions-current-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "refresh-preview:refresh-active-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

@@ -192,7 +192,26 @@
     "shell": 174,
     "workout": 175,
     "excercise": 176,
-    "exercise": 177
+    "exercise": 177,
+    "software": 178,
+    "applications": 179,
+    "keybindings": 180,
+    "key-bindings": 181,
+    "plugins": 182,
+    "task": 183,
+    "sinhala": 184,
+    "chrome": 185,
+    "fun": 186,
+    "research": 187,
+    "campfire": 188,
+    "typing": 189,
+    "conventions": 190,
+    "android": 191,
+    "play-console": 192,
+    "cs50": 193,
+    "cs50x": 194,
+    "harward": 195,
+    "course": 196
   },
   "_version": 3
 }

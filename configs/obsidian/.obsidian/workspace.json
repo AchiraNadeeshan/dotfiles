@@ -4,40 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "cc38a624dd45a9df",
+        "id": "f2f414c13ccdea10",
         "type": "tabs",
         "children": [
           {
-            "id": "5b868eacd4647438",
+            "id": "42630b1b65ee7bd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2025-12-24.md",
+                "file": "diary/2026-02-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "2026-02-24"
             }
           },
           {
-            "id": "dce6435ed3941644",
+            "id": "67e3ec253326f21c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2025-12-24.md",
+                "file": "notes/cs50x-resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "cs50x-resources"
+            }
+          },
+          {
+            "id": "f5240138768b899d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/prompt-guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "prompt-guide"
+            }
+          },
+          {
+            "id": "f6bdf41c94cf4748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/sri-lankan-series-tracking-list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "sri-lankan-series-tracking-list"
+            }
+          },
+          {
+            "id": "0bec4c708e4b2b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/techtrackshow-notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "techtrackshow-notes"
+            }
+          },
+          {
+            "id": "44d4baa187b00b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/portfolio-website-project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "portfolio-website-project"
+            }
+          },
+          {
+            "id": "80a43625eaa32647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/idea-hub.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "idea-hub"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -49,7 +125,6 @@
       {
         "id": "d2de3566dca40505",
         "type": "tabs",
-        "dimension": 42.84188034188034,
         "children": [
           {
             "id": "5c8096eda56bd06b",
@@ -70,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cheat-sheet",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -96,7 +171,6 @@
       {
         "id": "23c7c248578da2b5",
         "type": "tabs",
-        "dimension": 29.48717948717949,
         "children": [
           {
             "id": "70e674bf04b65c38",
@@ -104,9 +178,9 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -116,9 +190,8 @@
         ]
       },
       {
-        "id": "fd55dfd3f5876105",
+        "id": "3d1a02482b56683f",
         "type": "tabs",
-        "dimension": 27.670940170940174,
         "children": [
           {
             "id": "c9371b4e6a8f67e5",
@@ -141,9 +214,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4a125f27e3a6ad5b",
+        "id": "8c510bfe07fe36eb",
         "type": "tabs",
-        "dimension": 36.567926455566905,
+        "dimension": 36.97650663942799,
         "children": [
           {
             "id": "fa5644040dd5c882",
@@ -158,9 +231,9 @@
         ]
       },
       {
-        "id": "f7eed9ad980a03c7",
+        "id": "4a125f27e3a6ad5b",
         "type": "tabs",
-        "dimension": 63.432073544433095,
+        "dimension": 63.02349336057201,
         "children": [
           {
             "id": "03ac62af177e470a",
@@ -168,13 +241,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2025-12-24.md",
-                "followCursor": true,
-                "showSearch": true,
+                "file": "notes/idea-hub.md",
+                "followCursor": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-24"
+              "title": "Outline of idea-hub"
+            }
+          },
+          {
+            "id": "3ef5c91a5d794a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5135ffae20ddead0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -190,82 +294,80 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "3ef5c91a5d794a1d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "diary/2025-06-12.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2025-06-12"
-            }
-          },
-          {
-            "id": "5135ffae20ddead0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "diary/2025-06-12.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-12"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 280
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "bases:Create new base": true,
+      "markdown-importer:Open format converter": true,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": true,
+      "switcher:Open quick switcher": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "tasknotes:Open mini calendar": true,
+      "tasknotes:Open advanced calendar": true,
+      "tasknotes:Open agenda": true,
+      "tasknotes:Open pomodoro": true,
+      "tasknotes:Open pomodoro stats": true,
+      "tasknotes:Create new task": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": true,
       "workspaces:Manage workspace layouts": false,
-      "markdown-importer:Open format converter": false,
-      "templates:Insert template": false
+      "tasknotes:Open task list": true,
+      "tasknotes:Open kanban board": true,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5b868eacd4647438",
+  "active": "80a43625eaa32647",
   "lastOpenFiles": [
+    "diary/2026-02-24.md",
+    "diary/2026-02-23.md",
+    "notes/idea-hub.md",
+    "notes/techtrackshow-notes.md",
+    "diary/2026-02-22.md",
+    "diary/2026-02-21.md",
+    "notes/portfolio-website-project.md",
+    "diary/2026-02-20.md",
+    "TaskNotes/Tasks/week6-python.md",
+    "diary/2026-02-19.md",
+    "notes/cs50x-resources.md",
+    "TaskNotes/Tasks/vendora - ecommerce platform.md",
+    "TaskNotes/Tasks/Google Cloud Arcade.md",
     "notes/sri-lankan-series-tracking-list.md",
-    "diary/2025-12-24.md",
-    "diary/2025-12-23.md",
-    "excalidraw/web-development-a-z-course.md",
-    "excalidraw/other-stuff.excalidraw.md",
-    "excalidraw/blockchain-a-z-course.excalidraw.md",
-    "excalidraw",
-    "excalidraws/web-development-a-z-course.md",
-    "excalidraws/other-stuff.excalidraw.md",
-    "excalidraws/blockchain-a-z-course.excalidraw.md",
-    "excalidraws",
-    "notes/bash-shell-notes.md",
-    "templates/diary-template.md",
-    "notes/base.base",
-    "notes/workout-plan.md",
+    "diary/2026-02-18.md",
+    "diary/2026-02-17.md",
+    "diary/2026-02-16.md",
+    "notes/prompt-guide.md",
+    "notes/sri.md",
+    "notes/important-information.md",
+    "scripts/episodes_clickable.js.md",
+    "scripts",
+    "notes/debunk-hub.md",
+    "notes/windows-shortcuts.md",
+    "notes/google-play-console.md",
+    "diary/2026-02-15.md",
+    "notes/casing-styles.md",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "canvases/Untitled.canvas",
+    "notes/Untitled 2.base",
+    "notes/Untitled 1.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Tasks",
+    "notes/Untitled.base",
+    "canvases/Untitled 1.canvas",
+    "canvases/Untitled 2.canvas",
+    "canvases/Untitled 3.canvas",
     "assets/Pasted image 20251119004717.png",
     "assets/Pasted image 20251119004821.png",
     "assets/Pasted image 20251119005058.png",
@@ -273,34 +375,10 @@
     "assets/Pasted image 20251119005258.png",
     "assets/Pasted image 20251119005438.png",
     "assets/Pasted image 20251223211810.png",
-    "notes/idea-hub.md",
-    "notes/portfolio-website-project.md",
-    "notes/browser-bookmarks.md",
-    "notes/techtrackshow-notes.md",
-    "notes/git-cheat-sheet.md",
-    "notes/how-git-works.md",
-    "notes/css-cheat-sheet.md",
-    "notes/express.md",
     "assets/Pasted image 20251223210752.png",
     "assets/git.png",
-    "diary/2025-12-22.md",
-    "diary/2025-12-21.md",
-    "diary/2025-12-20.md",
-    "diary/2025-12-19.md",
-    "diary/2025-12-18.md",
-    "diary/2025-12-17.md",
     "assets/WhatsApp Image 2025-12-13 at 14.02.58.jpeg",
-    "notes/Untitled 1.base",
-    "templates",
-    "assets",
-    "diary",
-    "assets/Recording 20250223220126.m4a",
-    "daily",
-    "canvases/Untitled.canvas",
-    "canvases/Untitled 2.canvas",
-    "New folder",
     "Untitled 1.canvas",
-    "canvases/Untitled 1.canvas",
     "Untitled.canvas"
   ]
 }
