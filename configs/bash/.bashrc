@@ -19,6 +19,7 @@ alias dots='cd ~/dotfiles'
 if [[ "$OSTYPE" == "msys" ]]; then
   # Windows (Git Bash)
   alias open='explorer.exe .'
+  alias tree="find . -maxdepth 3 -not -path '*/.*' -not -path './node_modules*' | sed -e 's/[^/]*\//|     /g' -e 's/|     \([^|]*\)$/|-- \1/'"
 else
   # Linux
   alias open='xdg-open .'
